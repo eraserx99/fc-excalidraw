@@ -477,8 +477,8 @@
     },
     {
       "type": "text",
-      "version": 622,
-      "versionNonce": 140138467,
+      "version": 624,
+      "versionNonce": 1879108635,
       "index": "aB",
       "isDeleted": false,
       "id": "NVSZ0goVUSFK9eEqHWra1",
@@ -504,7 +504,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1725655452998,
+      "updated": 1725757176860,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -1510,8 +1510,8 @@
     },
     {
       "type": "image",
-      "version": 191,
-      "versionNonce": 719751459,
+      "version": 193,
+      "versionNonce": 1038595861,
       "index": "aW",
       "isDeleted": false,
       "id": "jjSakQLCiMdWVnQRo7-Xw",
@@ -1537,19 +1537,19 @@
           "type": "arrow"
         },
         {
-          "id": "_DPgNaGthyb1FoEuUlPUX",
-          "type": "arrow"
-        },
-        {
           "id": "QxR-CB8eGtMwMNmK9fgK-",
           "type": "arrow"
         },
         {
           "id": "hiasGOt6HD9UuM2CCa7xP",
           "type": "arrow"
+        },
+        {
+          "id": "_DPgNaGthyb1FoEuUlPUX",
+          "type": "arrow"
         }
       ],
-      "updated": 1725655895840,
+      "updated": 1725757176860,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -1598,8 +1598,8 @@
     },
     {
       "type": "arrow",
-      "version": 292,
-      "versionNonce": 1538061869,
+      "version": 293,
+      "versionNonce": 576905563,
       "index": "aY",
       "isDeleted": false,
       "id": "QxR-CB8eGtMwMNmK9fgK-",
@@ -1622,7 +1622,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1725655460618,
+      "updated": 1725757176862,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1716,8 +1716,8 @@
     },
     {
       "type": "arrow",
-      "version": 656,
-      "versionNonce": 2141938563,
+      "version": 682,
+      "versionNonce": 1043891867,
       "index": "aa",
       "isDeleted": false,
       "id": "_DPgNaGthyb1FoEuUlPUX",
@@ -1727,12 +1727,12 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 622.9225249230263,
-      "y": 368.2643127441406,
+      "x": 606.6220141191445,
+      "y": 368.2643127441405,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffc9c9",
-      "width": 139.71075253567153,
-      "height": 208.50592041015625,
+      "width": 156.01126333955335,
+      "height": 208.50592041015636,
       "seed": 1392057098,
       "groupIds": [],
       "frameId": null,
@@ -1740,7 +1740,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1725655452998,
+      "updated": 1725757176863,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1764,8 +1764,8 @@
           0
         ],
         [
-          139.71075253567153,
-          208.50592041015625
+          156.01126333955335,
+          208.50592041015636
         ]
       ]
     },
@@ -2070,8 +2070,8 @@
     },
     {
       "type": "arrow",
-      "version": 1140,
-      "versionNonce": 1561090563,
+      "version": 1141,
+      "versionNonce": 1406402043,
       "index": "ae",
       "isDeleted": false,
       "id": "hiasGOt6HD9UuM2CCa7xP",
@@ -2081,12 +2081,12 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 639.0289139435214,
-      "y": 351.3235079427948,
+      "x": 643.1725812639511,
+      "y": 351.131189747474,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffc9c9",
-      "width": 183.2922410561116,
-      "height": 65.90868395344955,
+      "width": 179.1485737356819,
+      "height": 65.7163657581288,
       "seed": 12675437,
       "groupIds": [],
       "frameId": null,
@@ -2094,7 +2094,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1725655988654,
+      "updated": 1725757176862,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2118,12 +2118,12 @@
           0
         ],
         [
-          135.20821199816407,
-          -6.275358833908058
+          131.06454467773438,
+          -6.083040638587306
         ],
         [
-          183.2922410561116,
-          -65.90868395344955
+          179.1485737356819,
+          -65.7163657581288
         ]
       ]
     }
